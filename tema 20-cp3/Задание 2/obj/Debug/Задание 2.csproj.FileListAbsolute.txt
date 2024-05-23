@@ -1,0 +1,7 @@
+D:\Информатика проекты\tema 20-cp3\Задание 2\bin\Debug\Задание 2.exe.config
+D:\Информатика проекты\tema 20-cp3\Задание 2\bin\Debug\Задание 2.exe
+D:\Информатика проекты\tema 20-cp3\Задание 2\bin\Debug\Задание 2.pdb
+D:\Информатика проекты\tema 20-cp3\Задание 2\obj\Debug\Задание 2.csproj.AssemblyReference.cache
+D:\Информатика проекты\tema 20-cp3\Задание 2\obj\Debug\Задание 2.csproj.CoreCompileInputs.cache
+D:\Информатика проекты\tema 20-cp3\Задание 2\obj\Debug\Задание 2.exe
+D:\Информатика проекты\tema 20-cp3\Задание 2\obj\Debug\Задание 2.pdb
